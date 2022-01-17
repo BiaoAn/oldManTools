@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">oldManTools</string>
+    <string name="phone">电话</string>
+    <string name="torch">电筒</string>
+    <string name="setting">设置</string>
+    <string name="item_defautl">默认</string>
+</resources>
